@@ -1,0 +1,2 @@
+ALTER TABLE sibling_group
+MODIFY COLUMN sibling_group_id INT NOT NULL AUTO_INCREMENT;

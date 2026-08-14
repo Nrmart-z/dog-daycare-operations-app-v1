@@ -1,0 +1,2 @@
+ALTER TABLE dogs_info
+ADD COLUMN active_status TINYINT(1) NOT NULL DEFAULT 1;
